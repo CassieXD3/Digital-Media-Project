@@ -1,0 +1,47 @@
+ html {
+  height: 100%;
+  width: 100%;
+  background-color: #cbf0ff;
+  color: #b18cfe;
+   border: 3px solid #d6c9fe; ;
+   border-bottom:#f9d3e0;
+   border-top: 10px solid;
+   border-top: #f9d3e0;
+   border-style: dotted ;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+  font-size: 120%;
+  display: flex;
+}
+
+.button-container {
+  display: flex;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+button {
+  background-color: #d9c9fe;
+  padding: 10px 20px;
+  border: fantasy;
+  border-color: #f9d3e0;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: 'tangerine', cursive;
+  font-size: 18px;
+}
+
+button a {
+  color:#ffffe8;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #f9d3e0;
+
+}
+#intrests.html
+color: #b18cfe;
+
+  
+}
