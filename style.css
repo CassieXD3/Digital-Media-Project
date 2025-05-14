@@ -42,6 +42,8 @@ button:hover {
 }
 #intrests.html
 color: #b18cfe;
+  display: flex;
+  gap: 20px;
+  margin: 20px 
 
-  
 }
